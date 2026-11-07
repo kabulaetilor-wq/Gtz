@@ -1,0 +1,1187 @@
+{
+ "format": "ESM1",
+ "name": "Vallée des Élites",
+ "seed": 20261105,
+ "size": 2000,
+ "chunkSize": 200,
+ "chunksPerSide": 10,
+ "heightSamples": 257,
+ "splatSamples": 160,
+ "waterLevel": 0,
+ "player": {
+  "x": 0,
+  "z": 0,
+  "towerY": 30,
+  "eyeHeight": 10.6
+ },
+ "towns": [
+  {
+   "name": "Port-Élite",
+   "type": "city",
+   "x": -590.6,
+   "z": 42.3,
+   "r": 280,
+   "buildings": 172
+  },
+  {
+   "name": "Valmont",
+   "type": "town",
+   "x": -313.9,
+   "z": -648.6,
+   "r": 200,
+   "buildings": 108
+  },
+  {
+   "name": "Rochefort",
+   "type": "town",
+   "x": 701.2,
+   "z": -69.5,
+   "r": 200,
+   "buildings": 105
+  },
+  {
+   "name": "Saint-Aubin",
+   "type": "town",
+   "x": 400.2,
+   "z": 555.9,
+   "r": 200,
+   "buildings": 105
+  },
+  {
+   "name": "Les Aulnes",
+   "type": "village",
+   "x": -767.4,
+   "z": 655.5,
+   "r": 120,
+   "buildings": 42
+  },
+  {
+   "name": "Hautebrise",
+   "type": "village",
+   "x": -140.6,
+   "z": 686.8,
+   "r": 120,
+   "buildings": 43
+  },
+  {
+   "name": "Marnes",
+   "type": "village",
+   "x": 143.1,
+   "z": -628,
+   "r": 120,
+   "buildings": 42
+  },
+  {
+   "name": "Ker-Vallon",
+   "type": "village",
+   "x": -791.8,
+   "z": -716.7,
+   "r": 120,
+   "buildings": 43
+  },
+  {
+   "name": "Zone Industrielle Nord",
+   "type": "industrial",
+   "x": 467.8,
+   "z": -685.8,
+   "r": 170,
+   "buildings": 84
+  },
+  {
+   "name": "Base Alpha",
+   "type": "military",
+   "x": -129.1,
+   "z": 343.6,
+   "r": 140,
+   "buildings": 45
+  }
+ ],
+ "camps": [
+  {
+   "x": -11.8,
+   "z": -99.8,
+   "y": 24.773827636485294,
+   "kind": "military"
+  },
+  {
+   "x": 81.1,
+   "z": -76.1,
+   "y": 23.437066010447605,
+   "kind": "farm"
+  },
+  {
+   "x": 161,
+   "z": -31.3,
+   "y": 23.2740353766351,
+   "kind": "village"
+  },
+  {
+   "x": 167.6,
+   "z": 60.2,
+   "y": 21.74305806174369,
+   "kind": "gas"
+  },
+  {
+   "x": 160.6,
+   "z": 153,
+   "y": 22.45356624599457,
+   "kind": "ruins"
+  },
+  {
+   "x": 75.8,
+   "z": 238.3,
+   "y": 29.404699885582417,
+   "kind": "military"
+  },
+  {
+   "x": -313.9,
+   "z": -201.6,
+   "y": 17.4959430072803,
+   "kind": "ruins"
+  },
+  {
+   "x": -109.1,
+   "z": -122.5,
+   "y": 24.496076304275913,
+   "kind": "military"
+  }
+ ],
+ "farms": [
+  {
+   "x": 285.6,
+   "z": -22.3
+  },
+  {
+   "x": 828.1,
+   "z": -776.4
+  },
+  {
+   "x": 802.6,
+   "z": 663.5
+  },
+  {
+   "x": 158.4,
+   "z": -242.9
+  },
+  {
+   "x": 765.9,
+   "z": -464.7
+  },
+  {
+   "x": 812.8,
+   "z": 462.4
+  },
+  {
+   "x": -447.6,
+   "z": 789.5
+  },
+  {
+   "x": -43.8,
+   "z": -238.7
+  }
+ ],
+ "rivers": [
+  "Rivière Ouest",
+  "Grand Fleuve",
+  "Rivière Est"
+ ],
+ "lakes": [
+  {
+   "x": -150,
+   "z": -380,
+   "r": 85,
+   "name": "Lac du Nord"
+  },
+  {
+   "x": 330,
+   "z": -430,
+   "r": 120,
+   "name": "Grand Lac"
+  },
+  {
+   "x": -720,
+   "z": -330,
+   "r": 90,
+   "name": "Lac Perdu"
+  },
+  {
+   "x": 160,
+   "z": 720,
+   "r": 95,
+   "name": "Lac du Sud"
+  },
+  {
+   "x": 770,
+   "z": 250,
+   "r": 70,
+   "name": "Étang de l'Est"
+  }
+ ],
+ "counts": {
+  "buildings": 1000,
+  "uniqueBuildings": 1000,
+  "pools": 33,
+  "props": 1836,
+  "animals": 712,
+  "trees": 15346,
+  "bridges": 10,
+  "roadSegments": 1629,
+  "kinds": {
+   "TOWNHALL": 4,
+   "HOSPITAL": 1,
+   "SCHOOL": 5,
+   "CHURCH": 9,
+   "FIRE": 4,
+   "MARKET": 5,
+   "HOTEL": 3,
+   "OFFICE": 7,
+   "SKYSCRAPER": 5,
+   "APT": 45,
+   "SHOP": 73,
+   "HOUSE": 407,
+   "GAS": 7,
+   "VILLA": 45,
+   "CABIN": 66,
+   "FARMHOUSE": 32,
+   "HUT": 54,
+   "TANKS": 36,
+   "FACTORY": 5,
+   "WAREHOUSE": 22,
+   "SILO": 16,
+   "CONTAINERS": 23,
+   "MAST": 18,
+   "HANGAR": 2,
+   "BUNKER": 17,
+   "WATCHTOWER": 26,
+   "BARRACKS": 5,
+   "BARN": 24,
+   "RUIN": 13,
+   "BOATHOUSE": 10,
+   "LIGHTHOUSE": 3,
+   "WINDMILL": 8
+  }
+ },
+ "kindNames": [
+  "HOUSE",
+  "VILLA",
+  "APT",
+  "SHOP",
+  "OFFICE",
+  "SKYSCRAPER",
+  "WAREHOUSE",
+  "FACTORY",
+  "BARN",
+  "FARMHOUSE",
+  "CHURCH",
+  "SCHOOL",
+  "HOSPITAL",
+  "TOWNHALL",
+  "BARRACKS",
+  "BUNKER",
+  "WATCHTOWER",
+  "HANGAR",
+  "CABIN",
+  "BOATHOUSE",
+  "LIGHTHOUSE",
+  "SILO",
+  "WINDMILL",
+  "HUT",
+  "RUIN",
+  "GAS",
+  "HOTEL",
+  "MARKET",
+  "MAST",
+  "FIRE",
+  "TANKS",
+  "CONTAINERS"
+ ],
+ "files": 100,
+ "bytes": 23888738,
+ "spawn": {
+  "x": -3.6,
+  "z": 1.5,
+  "yaw": 0
+ },
+ "safehouse": {
+  "x": 0,
+  "z": 0,
+  "r": 7
+ },
+ "missions": [
+  {
+   "id": 1,
+   "name": "Poste de tir",
+   "reward": 500,
+   "time": 0,
+   "start": {
+    "x": -2.5,
+    "z": -12.7
+   },
+   "loadout": "sniper",
+   "brief": "Prenez position sur la crête puis éliminez les gardes du camp au nord avec le fusil de précision.",
+   "steps": [
+    {
+     "type": "goto",
+     "x": -7.5,
+     "z": -50.2,
+     "r": 7,
+     "text": "Rejoignez la crête"
+    },
+    {
+     "type": "kill",
+     "spawns": [
+      {
+       "x": -4.4,
+       "z": -108.6,
+       "k": "soldier"
+      },
+      {
+       "x": -18,
+       "z": -99.6,
+       "k": "soldier"
+      },
+      {
+       "x": -3.9,
+       "z": -116.2,
+       "k": "soldier"
+      }
+     ],
+     "text": "Éliminez les gardes du camp"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "name": "Fouille de la ferme",
+   "reward": 700,
+   "time": 0,
+   "start": {
+    "x": 12.1,
+    "z": -3.6
+   },
+   "brief": "Nettoyez la ferme, récupérez trois documents puis revenez au poste.",
+   "steps": [
+    {
+     "type": "kill",
+     "spawns": [
+      {
+       "x": 92.9,
+       "z": -79.2,
+       "k": "soldier"
+      },
+      {
+       "x": 60.1,
+       "z": -76.3,
+       "k": "soldier"
+      },
+      {
+       "x": 83.1,
+       "z": -54.3,
+       "k": "soldier"
+      },
+      {
+       "x": 86.6,
+       "z": -80.7,
+       "k": "soldier"
+      }
+     ],
+     "text": "Éliminez les occupants de la ferme"
+    },
+    {
+     "type": "collect",
+     "points": [
+      {
+       "x": 85.4,
+       "z": -85.1
+      },
+      {
+       "x": 97.1,
+       "z": -61.5
+      },
+      {
+       "x": 84.7,
+       "z": -93.3
+      }
+     ],
+     "text": "Récupérez les documents",
+     "item": "document"
+    },
+    {
+     "type": "goto",
+     "x": -3.6,
+     "z": 1.5,
+     "r": 8,
+     "text": "Retournez au poste"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "name": "Colis sensible",
+   "reward": 800,
+   "time": 260,
+   "start": {
+    "x": 5.6,
+    "z": 11.3
+   },
+   "brief": "Récupérez le colis à la station-service puis livrez-le à la ferme avant la fin du temps. Un véhicule aide.",
+   "steps": [
+    {
+     "type": "collect",
+     "points": [
+      {
+       "x": 161.8,
+       "z": 71.9
+      }
+     ],
+     "text": "Récupérez le colis à la station-service",
+     "item": "colis"
+    },
+    {
+     "type": "goto",
+     "x": 766.7,
+     "z": -475.4,
+     "r": 8,
+     "text": "Livrez le colis à la ferme"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "name": "Contre la montre",
+   "reward": 900,
+   "time": 200,
+   "start": {
+    "x": -7.1,
+    "z": 10.4
+   },
+   "brief": "Passez les cinq points de contrôle le plus vite possible.",
+   "steps": [
+    {
+     "type": "goto",
+     "x": 154.1,
+     "z": 169.6,
+     "r": 9,
+     "text": "Point de contrôle 1/5"
+    },
+    {
+     "type": "goto",
+     "x": 80.3,
+     "z": 223,
+     "r": 9,
+     "text": "Point de contrôle 2/5"
+    },
+    {
+     "type": "goto",
+     "x": 175.6,
+     "z": -28.9,
+     "r": 9,
+     "text": "Point de contrôle 3/5"
+    },
+    {
+     "type": "goto",
+     "x": -117.7,
+     "z": -137.9,
+     "r": 9,
+     "text": "Point de contrôle 4/5"
+    },
+    {
+     "type": "goto",
+     "x": -3.6,
+     "z": 1.5,
+     "r": 9,
+     "text": "Point de contrôle 5/5 : le poste"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "name": "Chasse au colonel",
+   "reward": 1400,
+   "time": 0,
+   "start": {
+    "x": -13.5,
+    "z": -4.1
+   },
+   "loadout": "all",
+   "brief": "Un officier se cache dans le camp militaire. Éliminez-le, lui et ses gardes, puis fuyez.",
+   "steps": [
+    {
+     "type": "kill",
+     "spawns": [
+      {
+       "x": -109.4,
+       "z": -114.7,
+       "k": "officer"
+      },
+      {
+       "x": -108.2,
+       "z": -136.8,
+       "k": "soldier"
+      },
+      {
+       "x": -105.8,
+       "z": -142.3,
+       "k": "soldier"
+      },
+      {
+       "x": -120.7,
+       "z": -145.4,
+       "k": "soldier"
+      }
+     ],
+     "text": "Éliminez l'officier et ses gardes"
+    },
+    {
+     "type": "goto",
+     "x": -54.1,
+     "z": -52,
+     "r": 10,
+     "text": "Repliez-vous vers le poste"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "name": "Assaut sur la base Alpha",
+   "reward": 2200,
+   "time": 0,
+   "start": {
+    "x": -86,
+    "z": 214.6
+   },
+   "loadout": "all",
+   "brief": "Infiltrez la base militaire et neutralisez la garnison.",
+   "steps": [
+    {
+     "type": "kill",
+     "spawns": [
+      {
+       "x": -75.4,
+       "z": 280.3,
+       "k": "officer"
+      },
+      {
+       "x": -120,
+       "z": 336,
+       "k": "soldier"
+      },
+      {
+       "x": -122.6,
+       "z": 286.9,
+       "k": "soldier"
+      },
+      {
+       "x": -122.9,
+       "z": 439.8,
+       "k": "soldier"
+      },
+      {
+       "x": -186.1,
+       "z": 413.1,
+       "k": "soldier"
+      },
+      {
+       "x": -134.5,
+       "z": 322.2,
+       "k": "soldier"
+      },
+      {
+       "x": -41.7,
+       "z": 366.3,
+       "k": "soldier"
+      },
+      {
+       "x": -113.8,
+       "z": 337.6,
+       "k": "soldier"
+      },
+      {
+       "x": -69,
+       "z": 280.8,
+       "k": "soldier"
+      }
+     ],
+     "text": "Neutralisez la garnison"
+    },
+    {
+     "type": "goto",
+     "x": -92.5,
+     "z": 220.9,
+     "r": 9,
+     "text": "Sortez de la base"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "name": "Sniper au port",
+   "reward": 1800,
+   "time": 420,
+   "start": {
+    "x": -330.4,
+    "z": 46.9
+   },
+   "loadout": "sniper",
+   "brief": "Depuis la rive d'en face, éliminez les cibles dans la ville portuaire. Surveillez le vent et la chute de balle.",
+   "steps": [
+    {
+     "type": "kill",
+     "spawns": [
+      {
+       "x": -677.8,
+       "z": 77.6,
+       "k": "officer"
+      },
+      {
+       "x": -713.8,
+       "z": -6.4,
+       "k": "soldier"
+      },
+      {
+       "x": -571,
+       "z": -4.9,
+       "k": "soldier"
+      },
+      {
+       "x": -589.2,
+       "z": -77.3,
+       "k": "soldier"
+      },
+      {
+       "x": -700.7,
+       "z": 110.9,
+       "k": "soldier"
+      },
+      {
+       "x": -670.3,
+       "z": 142.2,
+       "k": "soldier"
+      },
+      {
+       "x": -630.4,
+       "z": 64.7,
+       "k": "soldier"
+      }
+     ],
+     "text": "Éliminez les cibles du port"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "name": "Zone industrielle",
+   "reward": 2000,
+   "time": 0,
+   "start": {
+    "x": 375.2,
+    "z": -584.9
+   },
+   "brief": "Éliminez les gardes, récupérez trois caisses et sortez.",
+   "steps": [
+    {
+     "type": "kill",
+     "spawns": [
+      {
+       "x": 477.4,
+       "z": -690.1,
+       "k": "soldier"
+      },
+      {
+       "x": 547.5,
+       "z": -712.5,
+       "k": "soldier"
+      },
+      {
+       "x": 539.8,
+       "z": -724,
+       "k": "soldier"
+      },
+      {
+       "x": 472.8,
+       "z": -697.8,
+       "k": "soldier"
+      },
+      {
+       "x": 449.4,
+       "z": -687.6,
+       "k": "soldier"
+      },
+      {
+       "x": 474.2,
+       "z": -638.3,
+       "k": "soldier"
+      }
+     ],
+     "text": "Éliminez les gardes"
+    },
+    {
+     "type": "collect",
+     "points": [
+      {
+       "x": 398.4,
+       "z": -640.4
+      },
+      {
+       "x": 504.7,
+       "z": -794.7
+      },
+      {
+       "x": 385.9,
+       "z": -711.5
+      }
+     ],
+     "text": "Récupérez les caisses",
+     "item": "caisse"
+    },
+    {
+     "type": "goto",
+     "x": 386.6,
+     "z": -586.8,
+     "r": 9,
+     "text": "Quittez la zone"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "name": "Le convoi",
+   "reward": 2600,
+   "time": 0,
+   "start": {
+    "x": 509.3,
+    "z": -46.9
+   },
+   "loadout": "all",
+   "brief": "Deux groupes tiennent deux villes. Nettoyez-les l’une après l’autre.",
+   "steps": [
+    {
+     "type": "kill",
+     "spawns": [
+      {
+       "x": 671.9,
+       "z": -35.7,
+       "k": "soldier"
+      },
+      {
+       "x": 668.9,
+       "z": -148.5,
+       "k": "soldier"
+      },
+      {
+       "x": 676.5,
+       "z": -32.3,
+       "k": "soldier"
+      },
+      {
+       "x": 695.4,
+       "z": -153.6,
+       "k": "soldier"
+      },
+      {
+       "x": 735.7,
+       "z": -99.5,
+       "k": "soldier"
+      }
+     ],
+     "text": "Libérez Rochefort"
+    },
+    {
+     "type": "goto",
+     "x": 307.4,
+     "z": 426.5,
+     "r": 9,
+     "text": "Rejoignez Saint-Aubin"
+    },
+    {
+     "type": "kill",
+     "spawns": [
+      {
+       "x": 411.8,
+       "z": 554.8,
+       "k": "officer"
+      },
+      {
+       "x": 407.6,
+       "z": 505,
+       "k": "soldier"
+      },
+      {
+       "x": 399.2,
+       "z": 605.1,
+       "k": "soldier"
+      },
+      {
+       "x": 465,
+       "z": 565.1,
+       "k": "soldier"
+      },
+      {
+       "x": 476.6,
+       "z": 524.7,
+       "k": "soldier"
+      },
+      {
+       "x": 419.2,
+       "z": 565.9,
+       "k": "soldier"
+      }
+     ],
+     "text": "Libérez Saint-Aubin"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "name": "Le grand nettoyage",
+   "reward": 4000,
+   "time": 0,
+   "start": {
+    "x": -231.9,
+    "z": -478.5
+   },
+   "loadout": "all",
+   "brief": "L'opération finale : trois villes, vingt hommes. Faites le ménage.",
+   "steps": [
+    {
+     "type": "kill",
+     "spawns": [
+      {
+       "x": -228.8,
+       "z": -661.3,
+       "k": "soldier"
+      },
+      {
+       "x": -261.2,
+       "z": -693.5,
+       "k": "soldier"
+      },
+      {
+       "x": -392.7,
+       "z": -652.5,
+       "k": "soldier"
+      },
+      {
+       "x": -271.6,
+       "z": -648.3,
+       "k": "soldier"
+      },
+      {
+       "x": -327.3,
+       "z": -568.6,
+       "k": "soldier"
+      },
+      {
+       "x": -308.1,
+       "z": -553.6,
+       "k": "soldier"
+      }
+     ],
+     "text": "Libérez Valmont"
+    },
+    {
+     "type": "goto",
+     "x": 148.7,
+     "z": -627.5,
+     "r": 9,
+     "text": "Rejoignez Marnes"
+    },
+    {
+     "type": "kill",
+     "spawns": [
+      {
+       "x": 97.3,
+       "z": -705.1,
+       "k": "soldier"
+      },
+      {
+       "x": 130.9,
+       "z": -620,
+       "k": "soldier"
+      },
+      {
+       "x": 180.8,
+       "z": -639.9,
+       "k": "soldier"
+      },
+      {
+       "x": 151.6,
+       "z": -646.9,
+       "k": "soldier"
+      },
+      {
+       "x": 146.5,
+       "z": -556.2,
+       "k": "soldier"
+      },
+      {
+       "x": 111.5,
+       "z": -625.6,
+       "k": "soldier"
+      }
+     ],
+     "text": "Libérez Marnes"
+    },
+    {
+     "type": "goto",
+     "x": -325.7,
+     "z": 26.2,
+     "r": 9,
+     "text": "Rejoignez Port-Élite"
+    },
+    {
+     "type": "kill",
+     "spawns": [
+      {
+       "x": -738.7,
+       "z": -14.1,
+       "k": "officer"
+      },
+      {
+       "x": -719.5,
+       "z": 3.2,
+       "k": "soldier"
+      },
+      {
+       "x": -720.7,
+       "z": 111,
+       "k": "soldier"
+      },
+      {
+       "x": -444.3,
+       "z": -18.8,
+       "k": "soldier"
+      },
+      {
+       "x": -710.3,
+       "z": 36,
+       "k": "soldier"
+      },
+      {
+       "x": -581.3,
+       "z": -50.2,
+       "k": "soldier"
+      },
+      {
+       "x": -550.2,
+       "z": 28.3,
+       "k": "soldier"
+      },
+      {
+       "x": -549.1,
+       "z": 87.9,
+       "k": "soldier"
+      }
+     ],
+     "text": "Libérez Port-Élite"
+    }
+   ]
+  }
+ ],
+ "vehicles": [
+  [
+   -7.6,
+   -20.4,
+   3.03,
+   0
+  ],
+  [
+   -12.4,
+   18,
+   5.94,
+   1
+  ],
+  [
+   18,
+   17.6,
+   2.53,
+   2
+  ],
+  [
+   -632.6,
+   83.3,
+   3.14,
+   0
+  ],
+  [
+   -724.6,
+   -41.5,
+   0,
+   0
+  ],
+  [
+   -494.5,
+   0.2,
+   4.71,
+   2
+  ],
+  [
+   -676.9,
+   213,
+   0,
+   1
+  ],
+  [
+   -587.9,
+   66.1,
+   3.14,
+   1
+  ],
+  [
+   -444.4,
+   -671.9,
+   3.14,
+   0
+  ],
+  [
+   -371.7,
+   -734,
+   4.71,
+   1
+  ],
+  [
+   -315.6,
+   -651,
+   0,
+   0
+  ],
+  [
+   769.9,
+   59.9,
+   4.71,
+   0
+  ],
+  [
+   787.3,
+   -89.8,
+   3.14,
+   1
+  ],
+  [
+   611.3,
+   -30.5,
+   3.14,
+   1
+  ],
+  [
+   485.8,
+   665.4,
+   0,
+   2
+  ],
+  [
+   411.6,
+   558.6,
+   1.57,
+   0
+  ],
+  [
+   402.2,
+   567,
+   0,
+   1
+  ],
+  [
+   -738.7,
+   689.9,
+   1.57,
+   0
+  ],
+  [
+   -794.7,
+   653.9,
+   1.57,
+   2
+  ],
+  [
+   -67,
+   696.6,
+   0,
+   0
+  ],
+  [
+   -90.7,
+   613.3,
+   1.57,
+   0
+  ],
+  [
+   220.7,
+   -662.5,
+   4.71,
+   0
+  ],
+  [
+   141.7,
+   -585.3,
+   3.14,
+   0
+  ],
+  [
+   -757.2,
+   -703.6,
+   3.14,
+   0
+  ],
+  [
+   -822.4,
+   -682.4,
+   4.71,
+   0
+  ],
+  [
+   415.2,
+   -640,
+   1.57,
+   4
+  ],
+  [
+   426,
+   -629.2,
+   0,
+   4
+  ],
+  [
+   544.6,
+   -640.3,
+   1.57,
+   4
+  ],
+  [
+   -127,
+   336.2,
+   0,
+   3
+  ],
+  [
+   -58.1,
+   345.5,
+   1.57,
+   3
+  ],
+  [
+   -182.5,
+   389.3,
+   1.57,
+   3
+  ],
+  [
+   -35.4,
+   -86.6,
+   1.22,
+   3
+  ],
+  [
+   81.1,
+   212.8,
+   1.79,
+   3
+  ],
+  [
+   -120.7,
+   -111,
+   1.34,
+   3
+  ]
+ ]
+}
