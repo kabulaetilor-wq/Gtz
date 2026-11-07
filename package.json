@@ -1,0 +1,22 @@
+{
+  "name": "elite-sniper",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview",
+    "map": "node tools/generate-map.mjs",
+    "check-map": "node tools/test-core.mjs && node tools/test-primitives.mjs"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/core": "^6.1.2",
+    "three": "^0.160.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.1.2",
+    "vite": "^5.4.0"
+  }
+}
